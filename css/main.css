@@ -1,0 +1,165 @@
+body {
+    background-color: #2A2F3D;
+    color: white;
+    direction: rtl;
+    text-align: right;
+    font-size: 14px;
+}
+
+::placeholder {
+    color: #2A2F3D;
+}
+
+main {
+    padding: 0 15px;
+}
+
+ul,
+li {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* toolbar */
+
+.footer {
+    background-color: #2C303B;
+    width: 93%;
+    height: 60px;
+    border-radius: 108px;
+    position: fixed;
+    bottom: -2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 700px;
+}
+
+.toolbar {
+    /*box-shadow: whitesmoke 0px 0px 40px;*/
+    box-shadow: rgba(168, 168, 168, 0.3) 0px 0px 40px;
+}
+
+.toolbar-icon-container {
+    width: 23%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+.toolbar-icon-link {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    transform: translateY(-50%);
+    top: 50%;
+    border-radius: 50%;
+    color: white;
+    display: inline-block;
+    transition: .5s ease all;
+}
+
+.active-icon {
+    color: #ff6732;
+}
+
+.toolbar-icon-link span {
+    position: absolute;
+    right: 50%;
+    top: 35%;
+    transform: translate(50%, -50%);
+}
+
+.toolbar-icon-link span i {
+    font-size: 20px;
+}
+
+.toolbar-icon-link p {
+    position: absolute;
+    right: 50%;
+    top: 80%;
+    transform: translate(50%, -50%);
+    font-size: 9px;
+}
+
+.have-message {
+    text-shadow: #0bcbd5 0 0 20px;
+}
+
+
+/*  user page style  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* resposive */
+
+@media (max-height: 1400px){
+    .footer{
+        bottom: 0;
+        height: 80px;
+        max-width: 815px;
+
+    }
+    .p-homeimages{
+        font-size: 16px;
+    }
+    .footer p {
+        font-size: 16px;
+    }
+    .toolbar-icon-link span i{
+        font-size: 24px;
+    }
+
+
+}
+
+@media (max-height: 1024px){
+    .footer{
+        bottom: -2%;
+        height: 70px;
+        max-width: 700px;
+    }
+    .p-homeimages{
+        font-size: 14px;
+    }
+    .footer p {
+        font-size: 14px;
+    }
+    .toolbar-icon-link span i{
+        font-size: 22px;
+    }
+
+}
+@media (max-height: 850px){
+    .footer{
+        bottom: -2%;
+        height: 60px;
+    }
+    .p-homeimages{
+        font-size: 12px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    .toolbar-icon-link span i{
+        font-size: 20px;
+    }
+
+
+}

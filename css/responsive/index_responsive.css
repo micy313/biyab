@@ -1,0 +1,177 @@
+@media (max-height: 1400px){
+    .main-icon-container {
+        width: 250px;
+    }
+    .small-icons{
+        width: 110px;
+    }
+    .icon-section{
+        margin: 150px 0;
+    }
+    .search-section{
+        margin: 40px;
+    }
+    .reletive-container{
+        height: 350px;
+    }
+
+}
+
+@media (max-height: 1024px){
+    .main-icon-container {
+        width: 180px;
+    }
+    .small-icons{
+        width: 90px;
+    }
+    .icon-section{
+        margin: 85px 0;
+    }
+    .search-section{
+        margin: 20px;
+    }
+    .reletive-container{
+        height: 250px;
+    }
+
+}
+
+
+@media (max-height: 850px){
+    .main-icon-container {
+         width: 140px ;
+     }
+    .small-icons{
+        width: 60px;
+    }
+    .icon-section{
+        margin: 70px 0;
+    }
+    .search-section{
+        margin: 20px;
+    }
+    .reletive-container{
+        height: 280px;
+    }
+
+}
+@media (max-height: 790px){
+    .main-icon-container {
+        width: 130px;
+    }
+    .small-icons{
+        width: 50px;
+    }
+    .icon-section{
+        margin: 60px 0;
+    }
+    .search-section{
+        margin: 10px;
+    }
+    .reletive-container{
+        height: 200px;
+    }
+
+}
+@media (max-height: 730px){
+    .main-icon-container {
+        width: 130px;
+    }
+    .small-icons{
+        width: 50px;
+    }
+    .icon-section{
+        margin: 84px 0;
+    }
+    .search-section{
+        margin: 10px;
+    }
+    .reletive-container{
+        height: 180px;
+    }
+ 
+}
+
+@media (max-height: 730px){
+    .main-icon-container {
+        width: 130px;
+    }
+    .small-icons{
+        width: 50px;
+    }
+    .icon-section{
+        margin: 42px 0;
+    }
+    .search-section{
+        margin: 10px;
+    }
+    .reletive-container{
+        height: 180px;
+    }
+
+}
+
+
+
+@media (max-height: 655px){
+    .main-icon-container {
+        width: 130px;
+    }
+    .small-icons{
+        width: 50px;
+    }
+    .icon-section{
+        margin: 88px 0;
+    }
+    .search-section{
+        margin: 10px;
+    }
+    .reletive-container{
+        height: 180px;
+    }
+}
+
+
+@media (max-height: 641px){
+    .main-icon-container {
+        width: 130px;
+    }
+    .small-icons{
+        width: 50px;
+    }
+    .icon-section{
+        margin: 56px 0;
+    }
+    .search-section{
+        margin: 10px;
+    }
+    .reletive-container{
+        height: 180px;
+    }
+}
+
+
+@media (max-height: 600px){
+    .main-icon-container {
+        width: 100px;
+    }
+    .small-icons{
+        width: 40px;
+    }
+    .icon-section{
+        margin: 30px 0;
+    }
+    .search-section{
+        margin: 10px;
+    }
+    .search-form input{
+        padding: 3px 30px;
+    }
+    .reletive-container{
+        height: 160px;
+    }
+    .search-form span i {
+        font-size: 15px;
+    }
+
+}

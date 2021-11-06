@@ -1,0 +1,241 @@
+@media (max-height: 1400px) {
+    .user-img-container{
+        width: 130px;
+        height: 130px;
+    }
+    p{
+        font-size: 20px;
+    }
+    .user-small-icon{
+        width: 130px;
+
+    }
+    .main-user-icon{
+        width: 140px;
+    }
+    .shop-icon-container {
+        width: 215px;
+        top: 355px;
+    }
+    .footer{
+        bottom: 0;
+        height: 95px;
+    }
+    .user-star-img-container {
+        width: 135px;
+        right: 50%;
+        bottom: -215px;
+    }
+    .user-star-img-container span{
+        font-size: 16px;
+        top: 36%;
+    }
+    .arrow-container span i{
+        font-size: 35px;
+    }
+
+}
+
+
+@media (max-height: 1025px) {
+    .user-img-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+    .footer{
+        bottom: -1%;
+        height: 60px;
+    }
+    .main-user-icon {
+        width: 100px;
+    }
+
+    .shop-icon-container {
+        top: 80px;
+        width: 250px;
+    }
+
+    .user-star-img-container {
+        width: 115px;
+        bottom: -39px;
+    }
+
+    .user-star-img-container span {
+        font-size: 16px;
+        top: 36%;
+    }
+
+    .user-small-icon {
+        width: 90px;
+    }
+    .arrow-container span i{
+        font-size: 20px;
+    }
+}
+
+@media (max-height: 850px) {
+    .user-img-container {
+        width: 70px;
+        height: 70px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .user-star-img-container {
+        width: 60px;
+    }
+
+    .user-small-icon {
+        width: 40px;
+    }
+
+    .user-star-img-container span {
+        top: 30%;
+    }
+
+    .main-user-icon {
+        width: 50px;
+        top: -5px;
+    }
+
+    .user-icons-container {
+        height: 190px;
+    }
+
+    .shop-icon-container {
+        width: 180px;
+        top: 62px;
+    }
+
+    .footer {
+        bottom: -1%;
+        height: 60px;
+    }
+    .toolbar-icon-container{
+        width: 23%;
+    }
+}
+
+@media (max-height: 813px) {
+    .main-user-icon {
+        width: 50px;
+        top: -44px;
+    }
+
+    .user-icons-container {
+        height: 141px;
+    }
+
+    .shop-icon-container {
+        width: 180px;
+        top: 94px;
+    }
+}
+
+@media (max-height: 800px) {
+    .shop-icon-container{
+        top: 85px;
+    }
+}
+
+
+@media (max-height: 790px) {
+    .main-user-icon {
+        top: -3px;
+    }
+
+    .user-icons-section {
+        margin: -30px 0;
+    }
+
+    .shop-icon-container {
+        width: 49%;
+        top: 113px;
+    }
+}
+
+@media (max-height: 737px) {
+    .shop-icon-container {
+        width: 43%;
+        top: 170px;
+    }
+}
+
+@media (max-height: 730px) {
+    .user-icons-section {
+        margin: -30px 0;
+    }
+
+    .shop-icon-container {
+        width: 33%;
+        top: 151px;
+    }
+}
+
+
+@media (max-height: 668px) {
+    .shop-icon-container {
+        width: 38%;
+        top: 132px;
+    }
+}
+
+@media (max-height: 653px) {
+    .shop-icon-container {
+        width: 38%;
+        top: 153px;
+    }
+}
+@media (max-height: 643px) {
+    .shop-icon-container {
+        top: 111px;
+    }
+}
+
+@media (max-height: 600px) {
+    .shop-icon-container{
+        width: 10%;
+        top: 95px;
+    }
+}
+
+
+@media (max-height: 590px) {
+    .main-user-icon {
+        width: 40px;
+    }
+
+    .user-small-icon {
+        width: 38px;
+    }
+
+    .user-star-img-container {
+        width: 60px;
+        right: 50%;
+        bottom: -1px;
+    }
+
+    .user-star-img-container {
+        width: 45px;
+    }
+
+    .shop-icon-container {
+        width: 37%;
+        top: 63px;
+    }
+
+    .user-icons-section {
+        margin: -32px 0;
+    }
+
+    .user-star-img-container span {
+        font-size: 10px;
+        top: 27%;
+    }
+}

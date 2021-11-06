@@ -1,0 +1,113 @@
+.logo {
+    width: 16%;
+    margin: auto;
+    position: relative;
+    top: 36px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+/*    search     */
+.search-box-section {
+    width: 100%;
+}
+
+.search-relative-container {
+    position: relative;
+    width: 70%;
+    margin: 91px auto 0;
+    border-bottom: 1px solid #ffffff;
+    padding: 10px 0;
+}
+
+.search-img-container {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+    width: 14%;
+}
+
+.search-img-container img {
+    width: 100%;
+}
+.search-button-container{
+    text-align: center;
+    width: 100%;
+}
+.search-button-container button{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+}
+/*    end search     */
+.box-sell-buy-name {
+    width: 72%;
+    position: absolute;
+    left: 14%;
+    top: 38%;
+
+
+}
+
+.header-table p {
+    margin: 0;
+    line-height: 40px;
+}
+
+.sell-name {
+    width: 48%;
+    height: 100%;
+    border: #ff6732 solid 2px;
+
+    display: inline-block;
+}
+
+.buy-name {
+    width: 48%;
+    height: 100%;
+    border: #0bcbd5 solid 2px;
+
+    display: inline-block;
+}
+
+
+.box-sell-buy {
+    width: 85%;
+    height: 303px;
+    margin: auto;
+    margin-top: 151px;
+}
+
+.body-table {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.header-table {
+    text-align: center;
+}
+
+.sell {
+    width: 48%;
+    min-height: 274px;
+    border: #ff6732 solid 2px;
+    overflow-y: scroll;
+    display: inline-block;
+
+}
+
+.buy {
+    width: 48%;
+    min-height: 274px;
+    border: #0bcbd5 solid 2px;
+    overflow-y: scroll;
+    display: inline-block;
+}
+
+.buy-name, .sell-name p {
+    text-align: center;
+}

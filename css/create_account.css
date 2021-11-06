@@ -1,0 +1,81 @@
+body{
+    background-color: #2A2F3D;
+    color: #ff6732;
+}
+
+.create-account-img{
+    width: 70px;
+    margin: auto;
+    margin-top: 43px;
+}
+
+.arrow-container {
+    position: fixed;
+    top: 3%;
+    left: 10%;
+    color: white;
+}
+
+.create-account-logo{
+    margin-top: 25px;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.create-account-input{
+    width: 80%;
+    margin: auto;
+    position: relative;
+    margin-top: 12px;
+    max-width: 600px;
+}
+
+.create-account-button{
+    background: #ff6732;
+    color: #2A2F3D;
+    border: 3px;
+    border-radius: 12px;
+    position: relative;
+    left: 50%;
+}
+p{
+    font-size: 16px;
+}
+
+.user-register-form{
+    margin-top: 60px;
+}
+.user-input-container{
+    width: 70%;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 38px;
+}
+.user-input-container input{
+    width: 100%;
+    background: repeating-linear-gradient(#2A2F3D,#2A2F3D);
+    border: 2px #ff6732 groove;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+}
+.submit-input-container{
+    width: 30%;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 81px;
+}
+.submit-input-container input{
+    width: 100%;
+    height: 51px;
+    background: repeating-linear-gradient(#ff6732, #ff6732);
+    border: 2px #2A2F3D solid;
+    border-radius: 10px;
+    text-align: center;
+    color: #2A2F3D;
+}
+::placeholder {
+    color: #ff6732;
+}

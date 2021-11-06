@@ -1,0 +1,51 @@
+.section-product{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+}
+
+
+.section-transaction{
+    position: absolute;
+    bottom: 35%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, 50%);
+}
+
+
+.product_img{
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+
+
+.product_text{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.transaction_img{
+    width: 20%;
+    display: block;
+    margin: auto;
+
+}
+
+.transaction_text{
+    text-align: center;
+    margin-top: 11px;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

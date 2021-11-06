@@ -1,0 +1,33 @@
+@media (max-height: 1400px) {
+    .footer {
+        bottom: 0%;
+    }
+}
+
+@media (max-height: 1025px) {
+    .footer {
+        bottom: -2%;
+    }
+}
+
+@media (max-height: 850px) {}
+
+@media (max-height: 813px) {}
+
+@media (max-height: 800px) {}
+
+@media (max-height: 790px) {}
+
+@media (max-height: 737px) {}
+
+@media (max-height: 730px) {}
+
+@media (max-height: 668px) {}
+
+@media (max-height: 653px) {}
+
+@media (max-height: 643px) {}
+
+@media (max-height: 600px) {}
+
+@media (max-height: 590px) {}

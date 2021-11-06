@@ -1,0 +1,141 @@
+.adds-section {
+    margin: auto;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.adds-list {
+    text-align: center;
+}
+
+.adds-items {
+    display: inline-block;
+    margin-left: 6px;
+    width: 20%;
+    max-width: 160px;
+}
+
+.adds-img-container-top {
+    border: 1px #707070 solid;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.adds-img-container-down {
+    border: 1px #707070 solid;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.adds-img-top {
+    width: 100%;
+}
+
+.adds-img-down {
+    width: 100%;
+}
+
+.search-section {
+    margin: 40px 0;
+}
+
+.search-container {
+    width: 88%;
+    background-color: white;
+    border-radius: 11px;
+    margin: auto;
+    max-width: 600px;
+}
+
+.search-form {
+    position: relative;
+}
+
+.search-form span {
+    position: absolute;
+    right: 0%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.search-form span i {
+    color: #2A2F3D;
+    font-size: 20px;
+}
+
+.search-form input {
+    width: 100%;
+    background-color: transparent;
+    border: transparent;
+    color: #2A2F3D;
+    padding: 6px 40px;
+}
+
+
+/* icon section */
+
+.icon-section {
+    margin: 75px 0;
+}
+
+.icon-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.reletive-container {
+    position: relative;
+    height: 200px;
+}
+
+.main-icon-container {
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main-icons-img {
+    width: 100%;
+}
+
+.small-icons {
+    width: 60px;
+    position: absolute;
+}
+
+.small-icons img {
+    width: 100%;
+}
+
+.icon-top-right {
+    top: 10%;
+    right: 15%;
+    transform: translate(50%, -50%);
+}
+
+.icon-top-left {
+    top: 10%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-down-right {
+    bottom: 10%;
+    right: 15%;
+    transform: translate(50%, 50%);
+}
+
+.icon-down-left {
+    bottom: 10%;
+    left: 15%;
+    transform: translate(-50%, 50%);
+}
+
+.p-homeimages {
+    font-size: 10px;
+    margin-top: 4px;
+}

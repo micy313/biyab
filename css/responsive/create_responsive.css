@@ -1,0 +1,153 @@
+@media (max-height: 1400px) {
+    .create-account-img{
+        margin-top: 71px;
+    }
+    .user-input-container{
+        margin-bottom: 110px;
+    }
+    .user-register-form{
+        margin-top: 68px;
+    }
+    .submit-input-container{
+        margin-bottom: 88px;
+    }
+}
+
+
+@media (max-height: 1025px) {
+    .user-input-container{
+        margin-bottom: 66px;
+    }
+    .user-register-form{
+        margin-top: 86px;
+    }
+    .submit-input-container{
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-height: 824px) {
+    .create-account-img{
+        margin-top: 52px;
+    }
+    .user-input-container{
+        margin-bottom: 48px;
+    }
+    .user-register-form{
+        margin-top: 42px;
+    }
+    .submit-input-container{
+        margin-top: 39px;
+    }
+}
+
+@media (max-height: 813px) {
+
+}
+
+@media (max-height: 800px) {
+    .create-account-img{
+        margin-top: 76px;
+    }
+    .user-input-container{
+        margin-bottom: 37px;
+    }
+    .user-register-form{
+        margin-top: 42px;
+    }
+    .submit-input-container{
+        margin-top: 39px;
+    }
+}
+
+
+@media (max-height: 790px) {
+
+}
+
+@media (max-height: 737px) {
+    .create-account-img{
+        margin-top: 52px;
+    }
+    .user-input-container{
+        margin-bottom: 35px;
+    }
+    .user-register-form{
+        margin-top: 42px;
+    }
+    .submit-input-container{
+        margin-top: 48px;
+    }
+}
+
+@media (max-height: 730px) {
+
+}
+
+
+@media (max-height: 668px) {
+    .user-input-container{
+        margin-bottom: 26px;
+    }
+    .user-register-form{
+        margin-top: 43px;
+    }
+    .submit-input-container{
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-height: 653px) {
+    .user-input-container{
+        margin-bottom: 26px;
+    }
+    .user-register-form{
+        margin-top: 43px;
+    }
+    .submit-input-container{
+        margin-top: 34px;
+    }
+}
+
+@media (max-height: 643px) {
+    .create-account-img{
+        margin-top: 52px;
+    }
+    .user-input-container{
+        margin-bottom: 22px;
+    }
+    .user-register-form{
+        margin-top: 42px;
+    }
+    .submit-input-container{
+        margin-top: 39px;
+    }
+}
+
+@media (max-height: 600px) {
+    .create-account-img{
+        margin-top: 35px;
+    }
+    .user-input-container{
+        margin-bottom: 22px;
+    }
+    .user-register-form{
+        margin-top: 26px;
+    }
+    .submit-input-container{
+        margin-top: 27px;
+    }
+}
+
+
+@media (max-height: 569px) {
+    .user-input-container{
+        margin-bottom: 15px;
+    }
+    .user-register-form{
+        margin-top: 20px;
+    }
+    .submit-input-container{
+        margin-bottom: 18px;
+    }
+}
