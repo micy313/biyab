@@ -1,0 +1,121 @@
+@media (max-height: 1366px){
+    .search-img-container{
+        width: 7%;
+    }
+    .body-table{
+        height: 586px;
+    }
+    .search-relative-container{
+        margin: 79px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+
+@media (max-height: 1024px){
+    .search-img-container{
+        width: 9%;
+    }
+    .body-table{
+        height: 428px;
+    }
+    .search-relative-container{
+        margin: 79px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+@media (max-height: 824px){
+    .body-table{
+        height: 335px;
+    }
+    .search-relative-container{
+        margin: 91px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+@media (max-height: 736px){
+    .body-table{
+        height: 280px;
+    }
+    .search-relative-container{
+        margin: 67px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+@media (max-height: 732px){
+    .body-table{
+        height: 269px;
+    }
+    .search-relative-container{
+        margin: 67px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+@media (max-height: 720px){
+    .search-relative-container{
+        margin: 52px auto 0;
+    }
+}
+
+
+
+
+
+@media (max-height: 667px){
+    .body-table{
+        height: 237px;
+    }
+    .search-relative-container{
+        margin: 67px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+@media (max-height: 641px){
+    .body-table{
+        height: 228px;
+    }
+    .search-relative-container{
+        margin: 67px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 33%;
+    }
+}
+
+
+
+@media (max-height: 568px){
+    .body-table{
+        height: 178px;
+    }
+    .search-relative-container{
+        margin: 43px auto 0;
+    }
+    .box-sell-buy-name {
+        top: 32%;
+    }
+}
+

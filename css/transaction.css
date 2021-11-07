@@ -93,7 +93,7 @@
 
 .sell {
     width: 48%;
-    min-height: 274px;
+    height: 100%;
     border: #ff6732 solid 2px;
     overflow-y: scroll;
     display: inline-block;
@@ -102,7 +102,7 @@
 
 .buy {
     width: 48%;
-    min-height: 274px;
+    height: 100%;
     border: #0bcbd5 solid 2px;
     overflow-y: scroll;
     display: inline-block;
