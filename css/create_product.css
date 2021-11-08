@@ -1,0 +1,49 @@
+.logo-product {
+    margin: auto;
+    width: 20%;
+    margin-top: 17%;
+}
+
+
+.box-create{
+    position: relative;
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    margin-top: 41%;
+}
+
+.grouping-img{
+    width: 20%;
+    position: absolute;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+
+.grouping-text {
+    font-size: 173%;
+    top: 3%;
+    position: absolute;
+    left: 15%;
+}
+
+.individuation-img{
+    width: 20%;
+    position: absolute;
+    margin-right: 0;
+    bottom: 0;
+}
+
+
+.individuation-text {
+    float: left;
+    font-size: 173%;
+    bottom: 0%;
+    position: absolute;
+    left: 0;
+}
+
+a{
+    color: #ff6732;
+}

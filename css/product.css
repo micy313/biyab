@@ -1,0 +1,49 @@
+.logos{
+    width: 37%;
+    height: 568px;
+    margin: auto;
+    position: relative;
+    top: 104px;
+    /*border: #0bcbd5 dotted 2px;*/
+}
+
+.image\&video{
+    position: absolute;
+    top: 0;
+}
+
+.image\&video p{
+    margin: auto;
+    display: table;
+    margin-top: 3px;
+}
+
+
+
+.add{
+    position: absolute;
+    top: 39%;
+}
+
+.add p{
+    margin: auto;
+    display: table;
+    margin-top: 14px;
+}
+
+
+
+.productsetting{
+    position: absolute;
+    bottom: 0;
+}
+
+.productsetting p{
+    margin: auto;
+    display: table;
+    margin-top: 6px;
+}
+
+a{
+    color: white;
+}
