@@ -175,3 +175,72 @@
     }
 
 }
+
+
+/* response for nest-hub */
+
+@media (max-width: 1300px){
+    .adds-items {
+        width: 8%;
+    }
+    .small-icons {
+        width: 70px;
+        }
+        .main-icon-container{
+            width: 140px;
+        }
+        .icon-container{
+            margin-top: 0;
+        }
+        .icon-section{
+            margin: 30px 0;
+        }
+
+}
+@media (max-width: 1200px){
+    .adds-items {
+        width: 8%;
+    }
+    .small-icons {
+        width: 50px;
+        }
+        .main-icon-container{
+            width: 120px;
+        }
+
+}
+@media (max-width: 900px){
+    .adds-items {
+        width: 10%;
+    }
+}
+
+@media (max-width: 700px){
+    .adds-items {
+        width: 12%;
+    }
+}
+
+@media (max-width: 600px){
+    .adds-items {
+        width: 14%;
+    }
+    
+}
+
+@media (max-width: 400px){
+    .adds-items {
+        width: 20%;
+    }
+    .small-icons {
+    width: 40px;
+    }
+    .main-icon-container{
+        width: 100px;
+    }
+    .icon-container{
+        margin-top: 10;
+    }
+
+
+}
