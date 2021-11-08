@@ -1,0 +1,135 @@
+@media (max-height: 1400px){
+    
+}
+
+@media (max-height: 1024px){
+    
+}
+
+
+@media (max-height: 850px){
+   
+
+}
+@media (max-height: 790px){
+   
+
+}
+@media (max-height: 730px){
+ 
+ 
+}
+
+@media (max-height: 730px){
+    
+}
+
+
+
+@media (max-height: 655px){
+   
+}
+
+
+@media (max-height: 641px){
+   
+}
+
+
+@media (max-height: 600px){
+   
+
+}
+
+
+/* response for nest-hub */
+
+@media (max-width: 1300px){
+    .logo{
+        width: 6%;
+        margin-top: 10%;
+    }
+    .logos {
+        height: 200px;
+        margin: auto;
+        margin-top: 150px;
+        
+    }
+    .logos div{
+        width: 6%;
+    }
+
+}
+@media (max-width: 1200px){
+    .logo{
+        width: 6%;
+        margin-top: 10%;
+    }
+    .logos {
+        height: 200px;
+        margin: auto;
+        margin-top: 100px;
+        
+    }
+    .logos div{
+        width: 6%;
+    }
+
+}
+@media (max-width: 900px){
+    .logo{
+        width: 10%;
+        margin-top: 18%;
+    }
+    .logos div{
+        width: 9%;
+    }
+    .logos {
+        height: 200px;
+        margin: auto;
+        margin-top: 140px;
+    }
+}
+
+@media (max-width: 700px){
+    .logo{
+        width: 12%;
+    }
+    .logos div{
+        width: 11%;
+    }
+    .logos {
+        height: 200px;
+        margin: auto;
+        margin-top: 140px;
+    }
+}
+
+@media (max-width: 600px){
+    .logo{
+        width: 14%;
+    }
+    .logos div{
+        width: 13%;
+    }
+    .logos {
+        height: 200px;
+        margin: auto;
+        margin-top: 140px;
+    }
+    
+}
+
+@media (max-width: 400px){
+   .logo{
+       width: 18%;
+   }
+   .logos div{
+    width: 16%;
+}
+   .logos {
+    height: 291px;
+    margin: auto;
+    margin-top: 100px;
+}
+}
