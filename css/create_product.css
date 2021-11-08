@@ -6,44 +6,56 @@
 
 
 .box-create{
-    position: relative;
-    width: 80%;
-    height: 300px;
-    margin: auto;
-    margin-top: 41%;
-}
+    position: fixed;
+    width: 100%;
+    transform: translate(-50%,-50%);
+    top: 57%;
+    left: 50%;
 
-.grouping-img{
+}
+.box-grouping{
+    width: 85%;
+    margin: auto;
+    position: relative;
+    margin-bottom: 180px;
+}
+.grouping-img {
+    transform: translate(0,-50%);
+    top: 50%;
+    right: 0;
     width: 20%;
     position: absolute;
-    margin-right: 0;
-    margin-top: 0;
 }
+.grouping-text{
+    line-height: 30px;
+    font-size: 28px;
+    margin-right: 22%;
 
-
-.grouping-text {
-    font-size: 173%;
-    top: 3%;
-    position: absolute;
-    left: 15%;
+}
+.box-individuation{
+    width: 85%;
+    margin: auto;
+    position: relative;
+    margin-bottom: 70px;
 }
 
 .individuation-img{
+    transform: translate(0,-50%);
+    top: 50%;
+    right: 0;
     width: 20%;
     position: absolute;
-    margin-right: 0;
-    bottom: 0;
+
 }
 
 
 .individuation-text {
-    float: left;
-    font-size: 173%;
-    bottom: 0%;
-    position: absolute;
-    left: 0;
+    line-height: 30px;
+    font-size: 28px;
+    margin-right: 22%;
 }
 
 a{
     color: #ff6732;
+    text-decoration: none;
 }
