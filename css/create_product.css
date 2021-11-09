@@ -8,7 +8,7 @@
 .box-create{
     position: fixed;
     width: 100%;
-    transform: translate(-50%,-50%);
+    transform: translate(-57%,-50%);
     top: 57%;
     left: 50%;
 
@@ -28,7 +28,7 @@
 }
 .grouping-text{
     line-height: 30px;
-    font-size: 28px;
+    font-size: 23px;
     margin-right: 22%;
 
 }
@@ -37,6 +37,7 @@
     margin: auto;
     position: relative;
     margin-bottom: 70px;
+    left: 2%;
 }
 
 .individuation-img{
@@ -51,7 +52,7 @@
 
 .individuation-text {
     line-height: 30px;
-    font-size: 28px;
+    font-size: 23px;
     margin-right: 22%;
 }
 
