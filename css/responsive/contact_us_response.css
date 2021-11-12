@@ -1,136 +1,144 @@
 
-/* response for nest-hub */
-
-@media (max-width: 1300px){
-    .logo{
-        width: 6%;
-        margin-top: 10%;
-    }
-    .logos {
-        height: 200px;
-        margin: auto;
-        margin-top: 150px;
-        
-    }
-    .logos div{
-        width: 6%;
-    }
-
-}
-@media (max-width: 1200px){
-    .logo{
-        width: 6%;
-        margin-top: 10%;
-    }
-    .logos {
-        height: 200px;
-        margin: auto;
-        margin-top: 100px;
-        
-    }
-    .logos div{
-        width: 6%;
-    }
-
-}
-@media (max-width: 900px){
-    .logo{
-        width: 10%;
-        margin-top: 18%;
-    }
-    .logos div{
-        width: 9%;
-    }
-    .logos {
-        height: 200px;
-        margin: auto;
-        margin-top: 140px;
-    }
-}
-
-@media (max-width: 700px){
-    .logo{
-        width: 12%;
-    }
-    .logos div{
-        width: 11%;
-    }
-    .logos {
-        height: 200px;
-        margin: auto;
-        margin-top: 140px;
-    }
-}
-
-@media (max-width: 600px){
-    .logo{
-        width: 14%;
-    }
-    .logos div{
-        width: 13%;
-    }
-    .logos {
-        height: 200px;
-        margin: auto;
-        margin-top: 140px;
-    }
-    
-}
-
-@media (max-width: 400px){
-   .logo{
-       width: 18%;
-   }
-   .logos div{
-    width: 16%;
-}
-   .logos {
-    height: 291px;
-    margin: auto;
-    margin-top: 100px;
-}
-}
-
-
 /* responsive by height */
 
 @media (max-height: 1400px){
     .logos{
-        margin-top: 300px;
+        margin-top: 160px;
+    }
+    .logos div {
+        width: 18%;
+    }
+    .tamasbama-call{
+        top: 150%;
+    }
+    .tamasbama-message{
+        top: 150%;
+    }
+    header p{
+        font-size: 25px;
+    }
+    .tamasbama-call p{
+        font-size: 25px;
+    }
+    .tamasbama-location p{
+        font-size: 25px;
+    }
+    .tamasbama-message p{
+        font-size: 25px;
     }
 }
 
 @media (max-height: 1024px){
     .logos{
-        margin-top: 230px;
+        margin-top: 120px;
+    }
+    .logos div {
+        width: 18%;
+    }
+    .tamasbama-call{
+        top: 100%;
+    }
+    .tamasbama-message{
+        top: 100%;
+    }
+    header p{
+        font-size: 20px;
+    }
+    .tamasbama-call p{
+        font-size: 20px;
+    }
+    .tamasbama-location p{
+        font-size: 20px;
+    }
+    .tamasbama-message p{
+        font-size: 20px;
     }
 }
 
 @media (max-height: 850px){
     .logos{
-        margin-top: 170px;
+        margin-top: 150px;
     }
-}
-
-@media (max-height: 740px){
-    .logos{
-        margin-top: 90px;
-    }
-    .tamasbama-message{
-        top: 90%;
-    }
-    .tamasbama-call{
-        top: 90%;
-    }
-    .logo{
-        width: 16%;
-    }
-    .logos div{
+    .logos div {
         width: 18%;
     }
+    .tamasbama-call{
+        top: 80%;
+    }
+    .tamasbama-message{
+        top: 80%;
+    }
+
+    header p{
+        font-size: 16px;
+    }
+    .tamasbama-call p{
+        font-size: 16px;
+    }
+    .tamasbama-location p{
+        font-size: 16px;
+    }
+    .tamasbama-message p{
+        font-size: 16px;
+    }
+}
+@media (max-height: 820px){
+    .logos{
+        margin-top: 140px;
+    }
+    .logos div {
+        width: 18%;
+    }
+    .tamasbama-call{
+        top: 70%;
+    }
+    .tamasbama-message{
+        top: 70%;
+    }
+}
+@media (max-height: 740px){
+    .logos{
+        margin-top: 120px;
+    }
+    .tamasbama-message{
+        top: 70%;
+    }
+    .tamasbama-call{
+        top: 70%;
+    }
+    
+    .logos div{
+        width: 16%;
+    }
 }
 
-
+@media (max-height: 690px){
+    .logos{
+        margin-top: 120px;
+    }
+    .tamasbama-message{
+        top: 60%;
+    }
+    .tamasbama-call{
+        top: 60%;
+    }
+    
+    .logos div{
+        width: 14%;
+    }
+    header p{
+        font-size: 14px;
+    }
+    .tamasbama-call p{
+        font-size: 14px;
+    }
+    .tamasbama-location p{
+        font-size: 14px;
+    }
+    .tamasbama-message p{
+        font-size: 14px;
+    }
+}
 
 @media (max-height: 655px){
     .tamasbama-message{
@@ -142,11 +150,9 @@
     .logos{
         margin-top: 100px;
     }
-    .logo{
-        width: 14%;
-    }
+   
     .logos div{
-        width: 16%;
+        width: 14%;
     }
 }
 
@@ -158,5 +164,8 @@
     .logos{
         margin-top: 90px;
     }
+    
 }
+
+
 
