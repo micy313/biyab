@@ -21,15 +21,21 @@ li {
 }
 
 /* top icon */
-.top-page-icon{
+.top-page-icon {
     margin: auto;
     width: 20%;
     margin-top: 17%;
     text-align: center;
 }
-.top-page-icon img{
+
+.top-page-icon img {
     width: 100%;
 }
+
+.top-page-icon p {
+    font-size: 14px;
+}
+
 /* end top icon */
 
 /* toolbar */
@@ -45,13 +51,14 @@ li {
     transform: translate(-50%, -50%);
     max-width: 700px;
 }
-.footer p{
+
+.footer p {
     margin-top: 4px;
 }
 
 .toolbar {
     /*box-shadow: whitesmoke 0px 0px 40px;*/
-    box-shadow: rgba(168, 168, 168, 0.3) 0px 0px 40px;
+    box-shadow: rgba(168, 168, 168, 0.3) 0 0 40px;
 }
 
 .toolbar-icon-container {
@@ -105,63 +112,82 @@ li {
 /*  end toolbar  */
 
 
-
-
-
-
-
-
 /* resposive */
 
-@media (max-height: 1400px){
-    .footer{
+@media (max-height: 1400px) {
+    .footer {
         bottom: 0;
         height: 80px;
         max-width: 815px;
 
     }
-    .p-homeimages{
+
+    .p-homeimages {
         font-size: 16px;
     }
+
     .footer p {
         font-size: 16px;
     }
-    .toolbar-icon-link span i{
+
+    .toolbar-icon-link span i {
         font-size: 24px;
     }
-
-
 }
 
-@media (max-height: 1024px){
-    .footer{
+@media (max-height: 1366px) {
+    .top-page-icon {
+        width: 20%;
+        text-align: center;
+    }
+    .top-page-icon p {
+        font-size: 27px;
+    }
+}
+
+@media (max-height: 1024px) {
+    .top-page-icon {
+        width: 20%;
+        text-align: center;
+    }
+    .top-page-icon p {
+        font-size: 23px;
+    }
+    .footer {
         bottom: -2%;
         height: 70px;
         max-width: 700px;
     }
-    .p-homeimages{
+
+    .p-homeimages {
         font-size: 14px;
     }
+
     .footer p {
         font-size: 14px;
     }
-    .toolbar-icon-link span i{
+
+    .toolbar-icon-link span i {
         font-size: 22px;
     }
 
 }
-@media (max-height: 850px){
-    .footer{
+
+@media (max-height: 850px) {
+    .footer {
         bottom: -2%;
         height: 60px;
     }
-    .p-homeimages{
+
+    .p-homeimages {
         font-size: 12px;
     }
+
     .footer p {
         font-size: 12px;
     }
-    .toolbar-icon-link span i{
+
+    .toolbar-icon-link span i {
         font-size: 20px;
     }
 
@@ -169,53 +195,95 @@ li {
 }
 
 
-
-@media (max-height: 800px){
-.top-page-icon {
-    width: 13%;
-    margin-top: 5%;
-}
-}
-@media (max-height: 737px){
+@media (max-height: 823px) {
     .top-page-icon {
-        width: 18%;
-        margin-top: 15%;
-    }
-}
-@media (max-height: 731px){
-    .top-page-icon {
-        width: 16%;
-        margin-top: 15%;
+        width: 21%;
+        margin-top: 17%;
     }
 }
 
-@media (max-height: 720px){
+@media (max-height: 812px) {
     .top-page-icon {
-        width: 14%;
+        width: 23%;
+        margin-top: 17%;
+    }
+    .top-page-icon p {
+        font-size: 17px;
+    }
+}
+
+
+@media (max-height: 800px) {
+    .top-page-icon {
+        width: 10%;
+        margin-top: 5%;
+    }
+    .top-page-icon p {
+        font-size: 18px;
+    }
+}
+
+@media (max-height: 737px) {
+    .top-page-icon {
+        width: 20%;
+        margin-top: 15%;
+    }
+}
+
+@media (max-height: 731px) {
+    .top-page-icon {
+        width: 19%;
+        margin-top: 15%;
+    }
+}
+
+@media (max-height: 720px) {
+    .top-page-icon {
+        width: 17%;
+        margin-top: 10%;
+    }
+    .top-page-icon p {
+        font-size: 16px;
+    }
+}
+
+@media (max-height: 667px) {
+    .top-page-icon {
+        width: 21%;
         margin-top: 14%;
     }
 }
-@media (max-height: 654px){
+
+@media (max-height: 654px) {
     .top-page-icon {
-        width: 17%;
+        width: 26%;
         margin-top: 24%;
     }
-}
-@media (max-height: 640px){
-    .top-page-icon {
-        width: 17%;
-        margin-top: 24%;
+    .top-page-icon p {
+        font-size: 14px;
     }
 }
-@media (max-height: 600px){
+
+@media (max-height: 640px) {
+    .top-page-icon {
+        width: 17%;
+        margin-top: 16%;
+    }
+}
+
+@media (max-height: 600px) {
     .top-page-icon {
         width: 11%;
         margin-top: 6%;
     }
+    .top-page-icon p {
+        font-size: 16px;
+    }
 }
-@media (max-height: 568px){
+
+@media (max-height: 568px) {
     .top-page-icon {
-        width: 15%;
-        margin-top: 21%;
+        width: 22%;
+        margin-top: 16%;
     }
 }
