@@ -1,0 +1,124 @@
+/*  start alert  */
+.alert-section {
+    width: 100%;
+    text-align: center;
+}
+
+.alert-product-count {
+    margin-top: 12px;
+}
+
+.alert-product-count p {
+    color: #FF6732;
+    font-size: 14px;
+
+}
+
+/*  end alert  */
+
+/* start form section */
+
+.form-section {
+    width: 90%;
+    margin: 66px auto 0;
+}
+
+.form-item-container {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.from-input {
+    width: 49%;
+    display: inline-block;
+}
+
+.from-input input {
+    width: 100%;
+}
+
+#replace-image-input {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #0bcbd5;
+    border-radius: 40px;
+    position: relative;
+    margin: auto;
+    top: 16px;
+}
+
+#replace-image-input i {
+    font-size: 16px;
+
+}
+
+#image-input {
+    display: none;
+}
+
+.plus-span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-input-r {
+
+}
+
+.input-label {
+    width: 49%;
+    display: inline-block;
+    text-align: left;
+}
+
+.input-label p {
+
+}
+
+/* end form section */
+
+/* start submit and description btn */
+/*right*/
+.form-icon-container {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.right-icon-container {
+    width: 49%;
+    display: inline-block;
+
+}
+
+.right-icon-container input {
+    display: none;
+}
+
+.submit-img-container {
+    width: 40px;
+    float: right;
+}
+
+.submit-img-container img {
+    width: 100%;
+}
+/*left*/
+.left-icon-container{
+width: 49%;
+    display: inline-block;
+}
+.left-icon-container a{
+
+}
+.description-logo-c{
+width: 40px;
+
+    float: left;
+}
+.description-logo-c img{
+    width: 100%;
+}
