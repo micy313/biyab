@@ -1,0 +1,112 @@
+.properties-section{
+
+width: 80%;
+margin: 60px auto 0;
+}
+
+.form-c{
+
+}
+
+.row-property-container{
+margin-bottom: 20px;
+text-align: center;
+}
+
+.property-name-input-c{
+width: 35%;
+display: inline-block;
+float: right;
+}
+
+.property-name-input-c input{
+width: 100%;
+background-color: #2A2F3D;
+border: 1px solid #eee;
+padding: 2px 20px;
+color: white;
+}
+::placeholder{
+    color: #ff6732;
+}
+.property-value-input-c{
+    width: 35%;
+    display: inline-block;
+    margin: auto;
+
+}
+
+.property-value-input-c input{
+    width: 100%;
+    background-color: #2A2F3D;
+border: 1px solid #eee;
+padding: 2px 20px;
+color: white;
+}
+
+.property-check-box-c{
+    
+    display: inline-block;
+    float: left;
+    border-radius: 70px;
+    overflow: hidden;
+    width: 27px;
+    height: 27px;
+}
+
+.property-check-box-c input{
+    width: 27px;
+    height: 27px;
+    border: blue;
+    border-radius: 50px;
+}
+
+
+/* description */
+
+.description-c{
+position: relative;
+width: 100%;
+margin-top: 50px;
+}
+
+.description-textarea{
+
+}
+.description-textarea ::placeholder{
+    color: #2A2F3D;
+}
+
+.description-textarea textarea{
+    width: 100%;
+    padding: 4px 10px;
+}
+
+.submit-btn {
+position: absolute;
+transform: translate(-50%,-50%);
+bottom: 5%;
+left: 50%;
+
+background-color:  #ff6732;
+color: #2A2F3D ;
+border-radius: 10px;
+padding: 5px 10px;
+border: 1px solid #ff6732 ;
+}
+
+/* ok icon */
+
+.icon-ok-section{
+position: fixed;
+bottom: 18%;
+    left: 15%;
+}
+.icon-ok-img{
+width: 40px;
+
+}
+
+.icon-ok-img img{
+    width: 100%;
+}
