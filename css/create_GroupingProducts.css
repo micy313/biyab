@@ -10,7 +10,7 @@
 
 .alert-product-count p {
     color: #FF6732;
-    font-size: 14px;
+    font-size: 16px;
 
 }
 
@@ -40,7 +40,7 @@
 #replace-image-input {
     width: 40px;
     height: 40px;
-    border: 1px solid #0bcbd5;
+    border: 4px solid white;
     border-radius: 40px;
     position: relative;
     margin: auto;
@@ -85,13 +85,17 @@
     width: 80%;
     text-align: center;
     margin: auto;
-
+    position: relative;
+    top: 9px;
 }
 
 .right-icon-container {
     width: 49%;
     display: inline-block;
+}
 
+.right-icon-container p{
+    font-size: 14px;
 }
 
 .right-icon-container input {
@@ -114,11 +118,14 @@ width: 49%;
 .left-icon-container a{
 
 }
-.description-logo-c{
-width: 40px;
-
+.description-logo-c {
+    width: 55px;
     float: left;
 }
 .description-logo-c img{
     width: 100%;
+}
+
+.description-logo-c p{
+    font-size: 14px;
 }
