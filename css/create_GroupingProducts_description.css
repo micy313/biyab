@@ -28,9 +28,11 @@
 .property-name-input-c input {
     width: 100%;
     background-color: #2C303B;
-    border: 1px solid #707070;
     padding: 2px 20px;
     color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 19px rgba(255,103,50,0.40);
 }
 
 ::placeholder {
@@ -48,9 +50,11 @@
 .property-value-input-c input {
     width: 100%;
     background-color: #2C303B;
-    border: 1px solid #707070;
     padding: 2px 20px;
     color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 19px rgba(255,103,50,0.40);
 }
 
 .property-check-box-c {
@@ -81,6 +85,7 @@
 
 .description-textarea {
     margin-top: 17%;
+
 }
 
 .description-textarea ::placeholder {
@@ -91,8 +96,11 @@
     width: 100%;
     padding: 4px 10px;
     background-color: #2C303B;
+    box-shadow: 0 0 19px rgba(255,103,50,0.40);
+    border: none;
+/*rgba(133,134,138,0.52)*/
 
-    border: 1px solid #707070;
+    border-radius: 10px;
 }
 
 .submit-btn {

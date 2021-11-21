@@ -1,5 +1,5 @@
 body {
-    background-color: #2A2F3D;
+    background-color: #292F3D;
     color: white;
     direction: rtl;
     text-align: right;
@@ -86,7 +86,7 @@ li {
 }
 
 .toolbar-icon-container {
-    width: 23%;
+    width: 24%;
     height: 100%;
     display: inline-block;
     position: relative;
@@ -126,6 +126,7 @@ li {
     top: 80%;
     transform: translate(50%, -50%);
     font-size: 9px;
+    margin-top: 7px;
 }
 
 .have-message {
